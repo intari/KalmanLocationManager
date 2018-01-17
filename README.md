@@ -10,6 +10,8 @@ Kalman Location Manager
 [![GitHub issues](https://img.shields.io/github/issues/intari/KalmanLocationManager.svg)](https://github.com/intari/KalmanLocationManager/issues)
 [![GitHub forks](https://img.shields.io/github/forks/intari/KalmanLocationManager.svg)](https://github.com/intari/KalmanLocationManager/network)
 [![GitHub stars](https://img.shields.io/github/stars/intari/KalmanLocationManager.svg)](https://github.com/intari/KalmanLocationManager/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 
